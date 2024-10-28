@@ -6,4 +6,4 @@
 
 El pueblo como tal se encuentra al oeste de un río y cruzando el mismo se encuentran todas las cosechas que sustentan al pueblo. Hacia el norte puedes encontrar pequeños bosques desperdigados por la zona y una diminuta colina se alza por el noroeste. 
 
-Es gobernado por [[Personajes/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] quien ha asumido el cargo de alcalde de la ciudad tras alcanzar la mayoría de edad hace no mucho años. Es el segundo hijo de [[Personajes/Lord Felaman Winterfrost\|Lord Felaman Winterfrost]], ahora señor y cuidador de las tierras de [[Mundo/Continentes/Reinos del norte/Ciudades/Dorwin\|Dorwin]].  
+Es gobernado por [[Personajes/Humanos/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] quien ha asumido el cargo de alcalde de la ciudad tras alcanzar la mayoría de edad hace no mucho años. Es el segundo hijo de [[Personajes/Humanos/Lord Felaman Winterfrost\|Lord Felaman Winterfrost]], ahora señor y cuidador de las tierras de [[Mundo/Continentes/Reinos del norte/Ciudades/Dorwin\|Dorwin]].  
