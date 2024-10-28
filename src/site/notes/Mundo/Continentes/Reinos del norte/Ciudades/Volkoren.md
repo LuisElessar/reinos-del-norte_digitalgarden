@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/continentes/reinos-del-norte/ciudades/volkoren/"}
+{"dg-publish":true,"permalink":"/mundo/continentes/reinos-del-norte/ciudades/volkoren/","tags":["gardenEntry"]}
 ---
 
 Volkoren es un pequeño pueblo ubicado en el sureste de los reinos del norte. Es uno de los pocos vestigios de los humanos en estas tierras tan alejadas, siendo [[Mundo/Continentes/Reinos del norte/Ciudades/Dorwin\|Dorwin]] y [[Mundo/Continentes/Reinos del norte/Ciudades/Rondorer\|Rondorer]] los otros dos. 
