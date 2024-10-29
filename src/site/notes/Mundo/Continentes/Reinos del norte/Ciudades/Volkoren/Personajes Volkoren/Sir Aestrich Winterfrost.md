@@ -11,4 +11,6 @@ Recibió mensajes de ayuda desde [[Mundo/Continentes/Reinos del norte/Ciudades/D
 
 [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Shava Anastrianna\|Shava Anastrianna]] quien era una falsa amiga de la familia intentó tomar el poder de [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]], pero fracasó gracias a los esfuerzos de un grupo de aventureros y algunos miembros del pueblo, como [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Vivian Jamal\|Vivian Jamal]] y [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Bree Claymore\|Bree Claymore]]. 
 
-[[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] 
+Después de que salvaran [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] recompensó al grupo de aventureros gratamente. 
+
+También le comentó a [[Party/Durandall Drango\|Durandall Drango]] sobre los mensajes que recibió de su hermano, así como de los rumores de [[Mundo/Continentes/Reinos del norte/La Pirámide Negra\|La Pirámide Negra]] que había surgido hacia el sur.
