@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/mundo/continentes/reinos-del-norte/ciudades/volkoren/establecimientos-volkoren/la-taberna-durmiente/"}
 ---
 
+![La taberna durmiente.jpeg](/img/user/Im%C3%A1genes/La%20taberna%20durmiente.jpeg)
 ### General:
 
 |            |                       |
