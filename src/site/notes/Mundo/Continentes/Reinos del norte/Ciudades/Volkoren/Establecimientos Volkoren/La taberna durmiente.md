@@ -5,10 +5,11 @@
 ![La taberna durmiente.jpeg](/img/user/Im%C3%A1genes/La%20taberna%20durmiente.jpeg)
 ### General:
 
-|            |                       |
-| ---------- | --------------------- |
-| Bartender: | [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Bree Claymore\|Bree Claymore]]     |
-| Cuartos:   | 4 cuartos, 15 SP each |
+|             |                                                                                                                                                                  |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bartender:  | [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Bree Claymore\|Bree Claymore]]                                                                                                                                                |
+| Cuartos:    | 4 cuartos, 15 SP each                                                                                                                                            |
+| Descripción | El aroma del vino llena el aire, con banderas de las naciones decorando las paredes y un laúd encantado tocando música, pero una de las cuerdas está desafinada. |
 ### Menú:
 
 |   |   |   |   |
