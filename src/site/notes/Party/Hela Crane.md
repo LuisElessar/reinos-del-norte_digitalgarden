@@ -22,7 +22,7 @@ Durante una de estas misiones, [[Party/Hela Crane\|Hela Crane]] conoció a [[Par
 Aunque su lealtad sigue atada a su amo, su mente y su magia pertenecen solo a ella. [[Party/Hela Crane\|Hela Crane]] recorre su camino con una determinación férrea, acumulando conocimientos y poder, siempre con la mirada puesta en la libertad que algún día será suya.
 
 
-### Aventuras junto con el grupo de aventureros:
+### ¿Cómo se une al grupo de aventureros?:
 
 [[Party/Hela Crane\|Hela Crane]] llegó a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] después de que su maestro le dijera que ahí se encontraban elementos mágicos que podrían serle útiles. Aunque averiguar el lugar exacto en dónde se encontraban dependería de [[Party/Hela Crane\|Hela Crane]].
 

@@ -4,6 +4,11 @@
 
 ![Young Uthar II.png](/img/user/Im%C3%A1genes/Young%20Uthar%20II.png)
 
+## Descripción física:
+
+Es una gnomo de tez oscura, de corto y ondulado cabello azul que viste con ropajes aparentemente simples, pero costosos. 
+
+## Historia:
 
 Hijo de [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Uthar I Martel\|Uthar I Martel]] es un joven de 21 años quien estudiaba artes y ayudaba a su padre con la gestión del hogar.
 
@@ -19,3 +24,6 @@ Parece ser que después de esa batalla se despertó un espíritu aventurero dent
 Combatió junto con su padre y [[Party/Durandall Drango\|Durandall Drango]] contra los espíritus que rondaban en las afueras de su hogar. Vio caer a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Uthar I Martel\|Uthar I Martel]] y cómo [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Shava Anastrianna\|Shava Anastrianna]] escapaba. 
 
 Le entregó la espada de su padre a [[Party/Durandall Drango\|Durandall Drango]] y fue a enterrarlo. Le dijo a los aventureros que una vez solucione los problemas en la granja y deje todo en orden iría a buscarlos para honrar la memoria de [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Uthar I Martel\|Uthar I Martel]] y hacerse un nombre por los [[Mundo/Continentes/Reinos del norte/Reinos del Norte\|Reinos del Norte]]. 
+
+## Gustos y personalidad:
+

@@ -3,6 +3,13 @@
 ---
 
 ![Sir Aestrich Winterfrost.jpeg](/img/user/Im%C3%A1genes/Sir%20Aestrich%20Winterfrost.jpeg)
+
+## Descripción física:
+
+[[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] es un hombre delgado, en sus treintas. Suele vestir siempre de azul, y pareciese que siempre se encuentra enfermo. 
+
+## Historia:
+
 El segundo hijo de [[Mundo/Continentes/Reinos del norte/Ciudades/Rondorer/Personajes de Rondorer/Lord Felaman Winterfrost\|Lord Felaman Winterfrost]] y gobernador de [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]]. 
 
 [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] tuvo una infancia difícil debido a su enfermedad que hacía que sus huesos no tuvieran la misma fuerza que la de un humano normal. Y la constante comparación con su hermano [[Mundo/Continentes/Reinos del norte/Ciudades/Dorwin/Personajes Dorwin/Sir Endalar Winterforst\|Sir Endalar Winterforst]] no ayudaba para que [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] desarrollara unos buenos lazos con su padre.   
@@ -14,3 +21,5 @@ Recibió mensajes de ayuda desde [[Mundo/Continentes/Reinos del norte/Ciudades/D
 Después de que salvaran [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] recompensó al grupo de aventureros gratamente. 
 
 También le comentó a [[Party/Durandall Drango\|Durandall Drango]] sobre los mensajes que recibió de su hermano, así como de los rumores de [[Mundo/Continentes/Reinos del norte/La Pirámide Negra\|La Pirámide Negra]] que había surgido hacia el sur.
+
+## Gustos y personalidad:

@@ -24,7 +24,7 @@ Durante sus viajes, perfeccionó su habilidad con algunas armas, prefiriendo la 
 
 Además, la reputación del alcalde, [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]], como alguien a quien le interesa mucho la magia y lo sobrenatural, le dieron a [[Party/Akta\|Akta]] la impresión de que [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] era un lugar donde podría establecerse y encontrar un sentido de comunidad, mientras continuaba persiguiendo sus objetivos personales.
 
-### Aventuras junto con el grupo de aventureros:
+### ¿Cómo se une al grupo de aventureros?:
 
 Tras llegar a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] se hospedó en [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Establecimientos Volkoren/La taberna durmiente\|La taberna durmiente]] donde conoció en primera instancia a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Bree Claymore\|Bree Claymore]] y tras desplazarse hacia una esquiva, como si fuera una jugarreta del destino pudo ver ha [[Party/Hela Crane\|Hela Crane]] después de varios años. 
 
