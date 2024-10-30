@@ -10,6 +10,8 @@
 
 ## Historia:
 
+### Backstory:
+
 [[Party/Akta\|Akta]] nació en una pequeña aldea en las afueras del reino humano de [[Mundo/Continentes/Reinos del norte/Ciudades/Rondorer/Rondorer\|Rondorer]]. Desde temprana edad, demostró un talento innato para la magia, una herencia que provenía de sus ancestros. Su linaje mixto, despertó la curiosidad y el temor en igual medida entre los habitantes de su aldea natal. 
 A pesar de los prejuicios y la desconfianza que enfrentaba, [[Party/Akta\|Akta]] encontró refugio en el estudio de la magia y se dedicó a perfeccionar sus habilidades como hechicera. 
 
@@ -22,7 +24,12 @@ Durante sus viajes, perfeccionó su habilidad con algunas armas, prefiriendo la 
 
 Además, la reputación del alcalde, [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]], como alguien a quien le interesa mucho la magia y lo sobrenatural, le dieron a [[Party/Akta\|Akta]] la impresión de que [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] era un lugar donde podría establecerse y encontrar un sentido de comunidad, mientras continuaba persiguiendo sus objetivos personales.
 
+### Aventuras junto con el grupo de aventureros:
+
+Tras llegar a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] se hospedó en [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Establecimientos Volkoren/La taberna durmiente\|La taberna durmiente]], 
+
 ## Gustos y personalidad:
 
 Cuando no está explorando ruinas antiguas en busca de conocimiento mágico o enfrentándose a peligros en aventuras, [[Party/Akta\|Akta]] suele dedicar su tiempo libre a la meditación y al estudio de tomos arcanos.
 Disfruta de la soledad de su propio mundo interior, donde puede profundizar en sus habilidades mágicas y reflexionar sobre los secretos del multiverso.
+
