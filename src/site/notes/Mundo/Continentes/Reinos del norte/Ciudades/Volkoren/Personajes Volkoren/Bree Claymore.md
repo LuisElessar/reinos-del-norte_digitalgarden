@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mundo/continentes/reinos-del-norte/ciudades/volkoren/personajes-volkoren/bree-claymore/"}
 ---
 
-![Bree Claymore.png](/img/user/Im%C3%A1genes/Bree%20Claymore.png)
+![Bree Claymore 2.jpeg](/img/user/Im%C3%A1genes/Bree%20Claymore%202.jpeg)
 
 Un Leonin de pelaje púrpura. Parece tener una extraña afición por el cabello de los demás.
 Es amigo de un grifo que patrulla los alrededores de [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]]. 
