@@ -26,7 +26,7 @@ Además, la reputación del alcalde, [[Mundo/Continentes/Reinos del norte/Ciudad
 
 ### Aventuras junto con el grupo de aventureros:
 
-Tras llegar a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] se hospedó en [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Establecimientos Volkoren/La taberna durmiente\|La taberna durmiente]], 
+Tras llegar a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] se hospedó en [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Establecimientos Volkoren/La taberna durmiente\|La taberna durmiente]] donde conoció en primera instancia a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Bree Claymore\|Bree Claymore]] y tras desplazarse hacia una esquiva, como si fuera una jugarreta del destino pudo ver ha [[Party/Hela Crane\|Hela Crane]] después de varios años. 
 
 ## Gustos y personalidad:
 
