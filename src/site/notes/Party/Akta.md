@@ -28,6 +28,10 @@ Además, la reputación del alcalde, [[Mundo/Continentes/Reinos del norte/Ciudad
 
 Tras llegar a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] se hospedó en [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Establecimientos Volkoren/La taberna durmiente\|La taberna durmiente]] donde conoció en primera instancia a [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Bree Claymore\|Bree Claymore]] y tras desplazarse hacia una esquiva, como si fuera una jugarreta del destino pudo ver ha [[Party/Hela Crane\|Hela Crane]] después de varios años. 
 
+Después del encuentro, y de hablar con [[Party/Hela Crane\|Hela Crane]] sobre el porqué se fue, [[Party/Akta\|Akta]] conoció a [[Party/Durandall Drango\|Durandall Drango]] y al joven que tenía bajo su mando [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Uthar II Martel\|Uthar II Martel]]. Eventualmente también entabló contacto con [[Party/Barkadrin\|Barkadrin]] y [[Party/Barnor\|Barnor]] una suerte de maestro/alumno que andan recorriendo estas tierras buscando respuestas sobre un misterio del pasado. 
+Y desde ahí formó parte de el [[Party/Grupo de aventureros\|Grupo de aventureros]]
+
+
 ## Gustos y personalidad:
 
 Cuando no está explorando ruinas antiguas en busca de conocimiento mágico o enfrentándose a peligros en aventuras, [[Party/Akta\|Akta]] suele dedicar su tiempo libre a la meditación y al estudio de tomos arcanos.
