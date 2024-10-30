@@ -11,7 +11,7 @@
 ## Historia:
 
 [[Party/Akta\|Akta]] nació en una pequeña aldea en las afueras del reino humano de [[Mundo/Continentes/Reinos del norte/Ciudades/Rondorer/Rondorer\|Rondorer]]. Desde temprana edad, demostró un talento innato para la magia, una herencia que provenía de sus ancestros. Su linaje mixto, despertó la curiosidad y el temor en igual medida entre los habitantes de su aldea natal. 
-A pesar de los prejuicios y la desconfianza que enfrentaba, [[Akta \|Akta ]]encontró refugio en el estudio de la magia y se dedicó a perfeccionar sus habilidades como hechicera. 
+A pesar de los prejuicios y la desconfianza que enfrentaba, [[Party/Akta\|Akta]] encontró refugio en el estudio de la magia y se dedicó a perfeccionar sus habilidades como hechicera. 
 
 Fue durante su juventud que conoció a [[Party/Hela Crane\|Hela Crane]], una elfa hechicera con la que compartió un amor apasionado y profundo. Sin embargo, las demandas de sus respectivos caminos como aventureras eventualmente las separaron, terminando su relación debido a la distancia y las responsabilidades que cada una debía enfrentar en sus propios viajes.
 
