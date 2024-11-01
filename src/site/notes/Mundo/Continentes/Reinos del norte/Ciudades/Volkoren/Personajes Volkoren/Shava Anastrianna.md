@@ -17,6 +17,6 @@ Se descubrió que conspiraba contra [[Mundo/Continentes/Reinos del norte/Ciudade
 
 [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Shava Anastrianna\|Shava Anastrianna]] escapó esa noche de la ciudad y a la mañana siguiente la atacó con una horda de muertos vivientes y fantasmas. Sin embargo fue derrotada gracias al esfuerzo conjunto de los habitantes de [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] y el grupo de aventureros. Aunque cobró la vida de [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Uthar I Martel\|Uthar I Martel]].
 
-[[Party/Durandall Drango\|Durandall Drango]] junto con [[Party/Hela Crane\|Hela Crane]] fueron los encargados de dejarla fuera de dejarla al borde de la muerte, pero gracias a magias oscuras pudo recobrar un poco de fuerza suficiente para huir. 
+[[Grupo de aventureros/Durandall Drango\|Durandall Drango]] junto con [[Grupo de aventureros/Hela Crane\|Hela Crane]] fueron los encargados de dejarla fuera de dejarla al borde de la muerte, pero gracias a magias oscuras pudo recobrar un poco de fuerza suficiente para huir. 
 
 ## Gustos y personalidad:

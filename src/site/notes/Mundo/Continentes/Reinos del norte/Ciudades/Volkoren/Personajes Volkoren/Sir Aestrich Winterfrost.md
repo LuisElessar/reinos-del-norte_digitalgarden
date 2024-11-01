@@ -20,6 +20,6 @@ Recibió mensajes de ayuda desde [[Mundo/Continentes/Reinos del norte/Ciudades/D
 
 Después de que salvaran [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Volkoren\|Volkoren]] [[Mundo/Continentes/Reinos del norte/Ciudades/Volkoren/Personajes Volkoren/Sir Aestrich Winterfrost\|Sir Aestrich Winterfrost]] recompensó al grupo de aventureros gratamente. 
 
-También le comentó a [[Party/Durandall Drango\|Durandall Drango]] sobre los mensajes que recibió de su hermano, así como de los rumores de [[Mundo/Continentes/Reinos del norte/La Pirámide Negra\|La Pirámide Negra]] que había surgido hacia el sur.
+También le comentó a [[Grupo de aventureros/Durandall Drango\|Durandall Drango]] sobre los mensajes que recibió de su hermano, así como de los rumores de [[Mundo/Continentes/Reinos del norte/La Pirámide Negra\|La Pirámide Negra]] que había surgido hacia el sur.
 
 ## Gustos y personalidad:
